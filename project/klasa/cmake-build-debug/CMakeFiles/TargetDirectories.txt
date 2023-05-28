@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/klasa/cmake-build-debug/CMakeFiles/klasa.dir
+C:/Users/pc/CLionProjects/klasa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/klasa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
